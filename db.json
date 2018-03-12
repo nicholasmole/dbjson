@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id":1,
+      "title": "Excitement",
+      "status": "draft",
+      "created Date": "3/12/2018",
+      "content": "Welcome to the world of excitement!"
+    },
+    {
+      "id":2,
+      "title": "Good Vibes",
+      "status": "draft",
+      "created Date": "3/12/2018",
+      "content": "Make sure everyone is feeling cool!"  
+    },
+    {
+      "id":3,
+      "title": "Accomplish",
+      "status": "draft",
+      "created Date": "3/12/2018",
+      "content": "Get ready to get going!"  
+    },
+    {
+      "id":4,
+      "title": "Fulfilling",
+      "status": "draft",
+      "created Date": "3/12/2018",
+      "content": "Do you know what makes you heart beat? We do!"  
+    }
+  ],
+  "profile" : {
+    "name": "typicode"
+  }
+}
