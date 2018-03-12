@@ -34,28 +34,28 @@
       "id":1,
       "name": "Tim",
       "username": "timson",
-      "email": "3/12/2018",
+      "email": "nottim@xzito.com",
       "adminlevel": "King"
     },
     {
       "id":2,
       "name": "Jim",
       "username": "jimalimmy",
-      "email": "3/12/2018",
+      "email": "jim@xzito.com",
       "adminlevel": "Queen"
     },
     {
       "id":3,
       "name": "Kim",
       "username": "ktown8989",
-      "email": "3/12/2018",
+      "email": "ktown@xzito.com",
       "adminlevel": "Knight"
     },
     {
       "id":4,
       "name": "Dennis",
       "username": "dennisDennis",
-      "email": "3/12/2018",
+      "email": "dennisDennis@xzito.com",
       "adminlevel": "Knight"
     }
   ],
