@@ -29,6 +29,36 @@
       "content": "Do you know what makes you heart beat? We do!"  
     }
   ],
+  "users": [
+    {
+      "id":1,
+      "name": "Tim",
+      "username": "timson",
+      "email": "3/12/2018",
+      "adminlevel": "King"
+    },
+    {
+      "id":2,
+      "name": "Jim",
+      "username": "jimalimmy",
+      "email": "3/12/2018",
+      "adminlevel": "Queen"
+    },
+    {
+      "id":3,
+      "name": "Kim",
+      "username": "ktown8989",
+      "email": "3/12/2018",
+      "adminlevel": "Knight"
+    },
+    {
+      "id":4,
+      "name": "Dennis",
+      "username": "dennisDennis",
+      "email": "3/12/2018",
+      "adminlevel": "Knight"
+    }
+  ],
   "profile" : {
     "name": "typicode"
   }
