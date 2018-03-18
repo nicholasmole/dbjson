@@ -1,68 +1,62 @@
 {
-  "posts": [
+  "guidesandmanuals": [
     {
-      "id":1,
-      "title": "Excitement",
-      "status": "draft",
-      "userId":1,
-      "created Date": "3/12/2018",
-      "content": "Welcome to the world of excitement!"
-    },
-    {
-      "id":2,
-      "title": "Good Vibes",
-      "status": "draft",
-      "userId":1,
-      "created Date": "3/12/2018",
-      "content": "Make sure everyone is feeling cool!"  
-    },
-    {
-      "id":3,
-      "title": "Accomplish",
-      "status": "draft",
-      "userId":3,
-      "created Date": "3/12/2018",
-      "content": "Get ready to get going!"  
-    },
-    {
-      "id":4,
-      "title": "Fulfilling",
-      "status": "draft",
-      "userId":1,
-      "created Date": "3/12/2018",
-      "content": "Do you know what makes you heart beat? We do!"  
-    }
-  ],
-  "users": [
-    {
-      "id":1,
-      "name": "Tim",
-      "username": "timson",
-      "email": "nottim@xzito.com",
-      "adminlevel": "King"
-    },
-    {
-      "id":2,
-      "name": "Jim",
-      "username": "jimalimmy",
-      "email": "jim@xzito.com",
-      "adminlevel": "Queen"
-    },
-    {
-      "id":3,
-      "name": "Kim",
-      "username": "ktown8989",
-      "email": "ktown@xzito.com",
-      "adminlevel": "Knight"
-    },
-    {
-      "id":4,
-      "name": "Dennis",
-      "username": "dennisDennis",
-      "email": "dennisDennis@xzito.com",
-      "adminlevel": "Knight"
-    }
-  ],
+			"id": 1,
+			"name": "Document #014856",
+			"products": "Auto",
+			"platform": "Classic (ARS)",
+			"doctype": "Underwriting Guideline",
+			"state": "NH",
+			"upload": "/014856.pdf",
+			"writingco": "MetCas",
+			"effectivedate": "09-12-2017",
+			"saleschannel": "IA PCS",
+			"published": "true",
+			"content": "Maecenas sed diam eget risus varius blandit sit amet non magna.",
+		},
+		{
+			"id": 2,
+			"name": "Document #0144536",
+			"products": "Auto",
+			"platform": "Classic (ARS)",
+			"doctype": "Underwriting Guideline",
+			"state": "AL",
+			"upload": "/01485s.pdf",
+			"writingco": "MetCas",
+			"effectivedate": "09-18-2017",
+			"saleschannel": "IA, PCS",
+			"published": "true",
+			"content": "Maecenas sed diam eget risus varius blandit sit amet non magna.",
+		},
+		{
+			"id": 3,
+			"name": "Document #056392",
+			"products": "Auto",
+			"platform": "Guidewire",
+			"doctype": "Underwriting Guideline",
+			"state": "AR",
+			"upload": "/01485s.pdf",
+			"writingco": "MetCas",
+			"effectivedate": "03-22-2018",
+			"saleschannel": "IA, PCS",
+			"published": "true",
+			"content": "Maecenas sed diam eget risus varius blandit sit amet non magna.",
+		},
+		{
+			"id": 4,
+			"name": "Document #0234645",
+			"products": "Auto",
+			"platform": "Guidewire",
+			"doctype": "Rate & Rule Manual",
+			"state": "FL",
+			"upload": "/01485s.pdf",
+			"writingco": "MetCas",
+			"effectivedate": "03-29-2018",
+			"saleschannel": "IA, PCS",
+			"published": "true",
+			"content": "Maecenas sed diam eget risus varius blandit sit amet non magna.",
+		}
+	],
   "profile" : {
     "name": "typicode"
   }
