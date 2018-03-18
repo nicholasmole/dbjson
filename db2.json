@@ -1,0 +1,63 @@
+{
+  "guidesandmanuals": [
+    {
+			"id": 1,
+			"name": "Document #014856",
+			"products": "Auto",
+			"platform": "Classic (ARS)",
+			"doctype": "Underwriting Guideline",
+			"state": "NH",
+			"upload": "/014856.pdf",
+			"writingco": "MetCas",
+			"effectivedate": "09-12-2017",
+			"saleschannel": "IA PCS",
+			"published": "true",
+			"content": "Maecenas sed diam eget risus varius blandit sit amet non magna.",
+		},
+		{
+			"id": 2,
+			"name": "Document #0144536",
+			"products": "Auto",
+			"platform": "Classic (ARS)",
+			"doctype": "Underwriting Guideline",
+			"state": "AL",
+			"upload": "/01485s.pdf",
+			"writingco": "MetCas",
+			"effectivedate": "09-18-2017",
+			"saleschannel": "IA, PCS",
+			"published": "true",
+			"content": "Maecenas sed diam eget risus varius blandit sit amet non magna.",
+		},
+		{
+			"id": 3,
+			"name": "Document #056392",
+			"products": "Auto",
+			"platform": "Guidewire",
+			"doctype": "Underwriting Guideline",
+			"state": "AR",
+			"upload": "/01485s.pdf",
+			"writingco": "MetCas",
+			"effectivedate": "03-22-2018",
+			"saleschannel": "IA, PCS",
+			"published": "true",
+			"content": "Maecenas sed diam eget risus varius blandit sit amet non magna.",
+		},
+		{
+			"id": 4,
+			"name": "Document #0234645",
+			"products": "Auto",
+			"platform": "Guidewire",
+			"doctype": "Rate & Rule Manual",
+			"state": "FL",
+			"upload": "/01485s.pdf",
+			"writingco": "MetCas",
+			"effectivedate": "03-29-2018",
+			"saleschannel": "IA, PCS",
+			"published": "true",
+			"content": "Maecenas sed diam eget risus varius blandit sit amet non magna.",
+		}
+	],
+  "profile" : {
+    "name": "typicode"
+  }
+}
