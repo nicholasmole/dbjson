@@ -47,7 +47,6 @@
 	"topMenu": {
 		"topMenu": [
 			{
-				//menu_item: {
 				"menu_title": "cat360",
 				"menu_height": "_small",
 				"menu_pane": [
@@ -65,34 +64,33 @@
 						"pane_links": [
 							{
 								"text": "What to expect",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "New products",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Benefits",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Transition",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Training",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "FAQ",
-								"link": "/#",
+								"link": "/#"
 							}
 						]
 					}
 				]
 			},
 			{
-				//menu_item: {
 				"menu_title": "Products",
 				"menu_height": "",
 				"menu_pane": [
@@ -105,7 +103,7 @@
 								"link": "/#",
 								"tooltip": {
 									"text": "Classic Auto",
-									"link": "/#",
+									"link": "/#"
 								}
 							},
 							{
@@ -113,7 +111,7 @@
 								"link": "/#",
 								"tooltip": {
 									"text": "Classic Home",
-									"link": "/#",
+									"link": "/#"
 								}
 							},
 							{
@@ -121,24 +119,24 @@
 								"link": "/#",
 								"tooltip": {
 									"text": "Classic Umbrella",
-									"link": "/#",
+									"link": "/#"
 								}
 							},
 							{
 								"text": "Business Owners Policy",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Business Auto",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "GrandProtect",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Combo",
-								"link": "/#",
+								"link": "/#"
 							}
 						]
 					},
@@ -148,31 +146,31 @@
 						"pane_links": [
 							{
 								"text": "Flood",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Life",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Boat",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Motorcycle",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "RV",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Classic Car",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Wedding",
-								"link": "/#",
+								"link": "/#"
 							}
 						]
 					},
@@ -182,23 +180,23 @@
 						"pane_links": [
 							{
 								"text": "Pet",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Special events",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Workers Compensation",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Professional Liability",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Directors & Officers",
-								"link": "/#",
+								"link": "/#"
 							}
 						]
 					},
@@ -211,19 +209,19 @@
 						"pane_links": [
 							{
 								"text": "Product tips & updates",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Product availability map",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Business Insurance",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "catLife GA Property & Casualty",
-								"link": "/#",
+								"link": "/#"
 							}
 						]
 					}
@@ -247,15 +245,15 @@
 						"pane_links": [
 							{
 								"text": "Underwriting guidelines",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Eligibility guides",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Rate and rule manuals",
-								"link": "/#",
+								"link": "/#"
 							}
 						]
 					}
@@ -274,7 +272,7 @@
 								"link": "/#",
 								"tooltip": {
 									"text": "Classic Auto",
-									"link": "/#",
+									"link": "/#"
 								}
 							},
 							{
@@ -282,7 +280,7 @@
 								"link": "/#",
 								"tooltip": {
 									"text": "Classic Home",
-									"link": "/#",
+									"link": "/#"
 								}
 							},
 							{
@@ -290,7 +288,7 @@
 								"link": "/#",
 								"tooltip": {
 									"text": "Classic Umbrella",
-									"link": "/#",
+									"link": "/#"
 								}
 							},
 							{
@@ -298,24 +296,24 @@
 								"link": "/#",
 								"tooltip": {
 									"text": "Classic Bundle",
-									"link": "/#",
+									"link": "/#"
 								}
 							},
 							{
 								"text": "Flood",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Life",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "BOP",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "View All",
-								"link": "/#",
+								"link": "/#"
 							}
 						]
 					},
@@ -328,32 +326,32 @@
 								"link": "/#",
 								"tooltip": {
 									"text": "Classic GPA System",
-									"link": "/#",
+									"link": "/#"
 								}
 							},
 							{
 								"text": "ARS",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Marketing Center",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Paper Store",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Citrix",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "WebEx",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "View All",
-								"link": "/#",
+								"link": "/#"
 							}
 						]
 					},
@@ -369,8 +367,8 @@
 								"pane_content": "Begin your journey with catLife with a strong background. Start learning the basics of the business today.",
 								"pane_links": {
 									"text": "Start learning now",
-									"link": "/#",
-								},
+									"link": "/#"
+								}
 							},
 							{
 								"pane_type": "_text",
@@ -378,8 +376,8 @@
 								"pane_content": "Join us for live webinars featuring a variety of different product & system topics.",
 								"pane_links": {
 									"text": "View all",
-									"link": "/#",
-								},
+									"link": "/#"
+								}
 							}
 						]
 					}
@@ -403,35 +401,35 @@
 						"pane_links": [
 							{
 								"text": "Lead generation",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Social media",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Branding",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Retention",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Referrals",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Online marketing",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Cross-selling",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "PMA",
-								"link": "/#",
+								"link": "/#"
 							}
 						]
 					}
@@ -455,27 +453,27 @@
 						"pane_links": [
 							{
 								"text": "Leading with insights",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Field management news",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Manager training",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Sales transformation",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "Replatforming",
-								"link": "/#",
+								"link": "/#"
 							},
 							{
 								"text": "catLife Way",
-								"link": "/#",
+								"link": "/#"
 							}
 						]
 					}
