@@ -30,7 +30,7 @@
 				"title": "Billing information"
 			},
 			{
-				"title": "catlife GA property & casualty"
+				"title": "catlife CA catperty & catualty"
 			},
 			{
 				"title": "Auto Insurance"
@@ -60,7 +60,7 @@
 					},
 					{
 						"pane_type": "_ltr",
-						"pane_title": "Guidewire Platform for Agents",
+						"pane_title": "Catwire Platform for Cats",
 						"pane_links": [
 							{
 								"text": "What to expect",
@@ -99,10 +99,10 @@
 						"pane_title": "Products",
 						"pane_links": [
 							{
-								"text": "NEW! Auto",
+								"text": "NEW! CATO",
 								"link": "/#",
 								"tooltip": {
-									"text": "Classic Auto",
+									"text": "Classic CATO",
 									"link": "/#"
 								}
 							},
@@ -220,7 +220,7 @@
 								"link": "/#"
 							},
 							{
-								"text": "catLife GA Property & Casualty",
+								"text": "catlife CA catperty & catualty",
 								"link": "/#"
 							}
 						]
@@ -268,10 +268,10 @@
 						"pane_title": "Product training",
 						"pane_links": [
 							{
-								"text": "NEW! Auto",
+								"text": "NEW! CATO",
 								"link": "/#",
 								"tooltip": {
-									"text": "Classic Auto",
+									"text": "Classic CATO",
 									"link": "/#"
 								}
 							},
@@ -292,10 +292,10 @@
 								}
 							},
 							{
-								"text": "NEW! Bundle",
+								"text": "NEW! Catdle",
 								"link": "/#",
 								"tooltip": {
-									"text": "Classic Bundle",
+									"text": "Classic Catdle",
 									"link": "/#"
 								}
 							},
@@ -308,7 +308,7 @@
 								"link": "/#"
 							},
 							{
-								"text": "BOP",
+								"text": "COP",
 								"link": "/#"
 							},
 							{
@@ -322,10 +322,10 @@
 						"pane_title": "System & technical training",
 						"pane_links": [
 							{
-								"text": "NEW! GPA System",
+								"text": "NEW! CPA System",
 								"link": "/#",
 								"tooltip": {
-									"text": "Classic GPA System",
+									"text": "Classic CPA System",
 									"link": "/#"
 								}
 							},
@@ -428,7 +428,7 @@
 								"link": "/#"
 							},
 							{
-								"text": "PMA",
+								"text": "CMA",
 								"link": "/#"
 							}
 						]
@@ -436,12 +436,12 @@
 				]
 			},
 			{
-				"menu_title": "RSM",
+				"menu_title": "CSM",
 				"menu_height": "_small",
 				"menu_pane": [
 					{
 						"pane_type": "_text",
-						"pane_title": "RSM portal",
+						"pane_title": "CSM portal",
 						"pane_content": "Stay up to date on all t"
 					},
 					{
@@ -456,7 +456,7 @@
 								"link": "/#"
 							},
 							{
-								"text": "Field management news",
+								"text": "Field catagement cews",
 								"link": "/#"
 							},
 							{
@@ -468,7 +468,7 @@
 								"link": "/#"
 							},
 							{
-								"text": "Replatforming",
+								"text": "Reclatforming",
 								"link": "/#"
 							},
 							{
